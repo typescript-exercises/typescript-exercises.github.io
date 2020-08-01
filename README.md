@@ -1,1 +1,0 @@
-# typescript-exercises.github.io
